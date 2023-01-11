@@ -1,0 +1,77 @@
+{
+    "restaurants": [
+      {
+        "id": "6c7bqjgi84kcowlqdz",
+        "name": "Noperstar Delala (NoDel)",
+        "description": "NoDel offers menus for Lunch and Dinner. The restaurant has a Latin atmosphere with Latin American ornaments and music. Within a year of its opening, NoDel has been recognised for its quality of food and excellent service.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+        "city": "New York",
+        "rating": 4.6
+      },
+      {
+        "id": "ljx8i0qu2uckcowlqdz",
+        "name": "Juzuna Gulex",
+        "description": "Juzuna Gulex specializes in delicious food featuring fresh ingredients. Whether you’re ordering a multi-course meal or grabbing a drink and pizza at the bar, casual yet upscale atmosphere makes it perfect for dining.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+        "city": "Los Angeles",
+        "rating": 4.6
+      },
+      {
+        "id": "fe8bbxoazddkcowlqdz",
+        "name": "Zoel Express",
+        "description": "We believe in the commitment to our community and in fostering long term relationships with local farmers and fishermen. Our menus reflect these connections, seasonal produce and sustainably sourced seafood and meats",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+        "city": "Seattle",
+        "rating": 4.8
+      },
+      {
+        "id": "ik1zljmlf68kcowlqdz",
+        "name": "Renilla Glo",
+        "description": "Renilla Glo is a comfortable, brasserie-style restaurant offering everything you love. Renilla Glo features classic dishes, as well as fresh salads and juicy hamburgers made with fresh-ground beef.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+        "city": "Los Angeles",
+        "rating": 4.7
+      },
+      {
+        "id": "9jpuzkm6n6jkcowlqdz",
+        "name": "Zapapa Delios",
+        "description": "Located at Vienna. We offer a wide array of fresh food – green pork plate, chimichangas, hamburger, barbacoa plate, pizza, salads, bbq with rice and beans and more. Try our delicious food today! ",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+        "city": "New York",
+        "rating": 3.8
+      },
+      {
+        "id": "cpl5jpsnuqkkcowlqdz",
+        "name": "Ci Siamo",
+        "description": "Ci Siamo bridges the traditional with the contemporary, bringing live-fire cooking, housemade pasta, and a robust Italian wine list to the heart of Manhattan West. We’ve made it! We’ve arrived! We’re here!",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+        "city": "Chicaago",
+        "rating": 4.6
+      },
+      {
+        "id": "iqtf9hmdzvbkcowlqdz",
+        "name": "The Wilder",
+        "description": "I am a feeling. Like swimming under a waterfall, biting into a juicy peach, dancing till the sun comes up, having that third mezcal, eating berries fresh from the vine, a blue sky without a cloud in sight.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+        "city": "Chicaago",
+        "rating": 3.6
+      },
+      {
+        "id": "8i06gqcc2dpkcowlqdz",
+        "name": "Suerte",
+      "description": "Located in the heart of East Austin, Suerte is an award-winning restaurant driven by a passion for masa, an ingredient at the heart of Mexican cooking. Our bar offers some of Mexico's most unique agave and succulent spiri   ts state-side.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+        "city": "Portland",
+        "rating": 4
+      },
+      {
+        "id": "wf5o19xhxxkcowlqdz",
+        "name": "Crown Shy",
+        "description": "Crown Shy is the first solo project of Chef James Kent and Restaurateur Jeff Katz. Inspired by James’ upbringing in downtown New York and his experience leading the city’s most celebrated kitchens.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+        "city": "Austin",
+        "rating": 3.9
+      }
+    ]
+  }
+  

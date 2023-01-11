@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+main .restobooking {
+    background-color: #473008;
+    margin: 15vh 0;
+    padding: 15vh 5vh;
+}
+
+main .restobooking .titlebooking {
+    text-align: center;
+    margin: 0 0 5vh 0;
+    font-size: xx-large;
+    color: #faeab1;
+}
+
+main .restobooking .titlebooking span {
+    width: 90%;
+    height: 1px;
+    background-color: #faeab1;
+    display: block;
+    margin: 0 auto;
+}
+
+main .restobooking .getreservation {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+main .restobooking .getreservation img {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+main .restobooking .getreservation form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: #faeab1;
+}
+
+main .restobooking .getreservation form div {
+    margin-bottom: 3vh;
+}
+
+main .restobooking .getreservation form label {
+    display: block;
+}
+
+main .restobooking .getreservation form .name,
+main .restobooking .getreservation form .name-resto,
+main .restobooking .getreservation form .btn-booking {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+main .restobooking .getreservation .name input,
+main .restobooking .getreservation form .name-resto select {
+    width: 90%;
+    height: 44px;
+    padding-left: 5px;
+    min-height: 44px;
+    min-width: 44px;
+}
+
+main .restobooking .getreservation .phone input,
+main .restobooking .getreservation .email input,
+main .restobooking .getreservation .date input,
+main .restobooking .getreservation .time select {
+    width: 80%;
+    height: 44px;
+    padding-left: 5px;
+    min-height: 44px;
+    min-width: 44px;
+}
+
+main .restobooking .getreservation .btn-booking button {
+    width: 90%;
+    margin: 6vh 0 0 0;
+    padding: 2vh 0;
+    background-color: #faeab1;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+main .restobooking .getreservation .btn-booking button:focus {
+    background-color: #473008;
+    color: #faeab1;
+    border: 2px solid #faeab1;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    main .restobooking .getreservation {
+        display: grid;
+        grid-template-columns: 1fr;        
+    } 
+
+    main .restobooking .getreservation form {
+        margin: 5vh auto;
+        gap: 10px;
+    }
+
+    main .restobooking .getreservation .name input,
+    main .restobooking .getreservation form .name-resto select,
+    main .restobooking .getreservation .phone input,
+    main .restobooking .getreservation .email input,
+    main .restobooking .getreservation .date input,
+    main .restobooking .getreservation .time select {
+        width: 100%;
+    }
+
+    main .restobooking .getreservation .btn-booking button {
+        width: 100%;
+        margin: 2vh 0 0 0;
+    }
+
+}

@@ -1,0 +1,41 @@
+{
+    "review": [
+      {
+        "id": "1",
+        "point": "Great Experience",
+        "desc": "It’s a great experience. The ambiance is very welcoming and charming. Amazing wines, food and service. Staff are extremely knowledgeable and make great recommendations.",
+        "name": "Baluma J"
+      },
+      {
+        "id": "2",
+        "point": "Decoration of Restaurant",
+        "desc": "The restaurant is situated by a lake which is used as fish farm. The fish grown by the owners are organic, so they taste fresher and sweeter than those served in other restaurants.",
+        "name": "Govan"
+      },
+      {
+        "id": "3",
+        "point": "Types of The Food",
+        "desc": "There are more than 100 types of seafood and non-seafood dishes in their ever expanding menu. Patrons can choose to cook their favourite seafood in Malay, Thai or Western styles.",
+        "name": "Brecca L.V"
+      },
+      {
+        "id": "4",
+        "point": "The Absolute Best Red Sauce",
+        "desc": "The absolute best red sauce. Weather on Pizza or Pasta, it’s honestly delicious. Portions are huge and the staff is extremely friendly and courteous.",
+        "name": "Sunkingta"
+      },
+      {
+        "id": "5",
+        "point": "Great food, great coffee, great service",
+        "desc": "Potato pancakes were good. Will try the hash next time. Biscuits were great also.",
+        "name": "Cierra W"
+      },
+      {
+        "id": "6",
+        "point": "Affordably Priced",
+        "desc": "This place knows how to satisfy their clients. Always with a super nice mindset. The food is affordably priced, always delicious and clean.",
+        "name": "Xiever B"
+      }
+    ]
+  }
+  
